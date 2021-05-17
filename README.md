@@ -5,7 +5,7 @@ Objetivo: Cadastrar anúncios e obter relatórios
 Banco de dados criado no mySQL e código desenvolvido em java no IDE Netbeans
 
 Rotina
-Criar um banco de dados no MySQL conforme script abaixo
+Copiar o script abaixo e rodar no MySQL 
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
